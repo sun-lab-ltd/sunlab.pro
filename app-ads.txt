@@ -127,3 +127,4 @@ yandex.com, 40427798, RESELLER
 yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
+applovin.com, 935e1f4cb21e5c35740d0b3f2010be3d, DIRECT
