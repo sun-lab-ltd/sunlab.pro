@@ -209,6 +209,7 @@ bematterfull.com, 111399861, RESELLER
 onlinemediasolutions.com, 29556, RESELLER 
 rubiconproject.com, 26168, RESELLER, 0bfd66d529a55807 
 rubiconproject.com, 26192, RESELLER, 0bfd66d529a55807 
+facebook.com, 196972146262213, DIRECT, c3e20eee3f780d68
 video.unrulymedia.com, 322585001, RESELLER 
 adiiix.com, 3de5db9, RESELLER 
 fromthetop.io, 65529, RESELLER
